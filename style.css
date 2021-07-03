@@ -33,3 +33,9 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.round-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 100px;
+}
